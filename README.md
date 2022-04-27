@@ -1,4 +1,4 @@
-# monopoly
+# monopoly game
 a monopoly game using python (and pygame)
 
 For the board, I will use tiles from an Estonian version of monopoly
