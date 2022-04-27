@@ -1,0 +1,55 @@
+
+[
+  [
+    {
+      "image": "pictures/start_tile.png",
+      "top colour": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/coca-cola_plaza_superkino.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "properties": {
+        "rent": {
+          "property": 20000,
+          "1 falt": 100000,
+          "2 falts": 300000,
+          "3 falts": 900000,
+          "4 falts": 1600000,
+          "hotel": 2500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "top colour": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/teletorn.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "properties": {
+        "rent": {
+          "property": 40000,
+          "1 falt": 200000,
+          "2 falts": 600000,
+          "3 falts": 1800000,
+          "4 falts": 3200000,
+          "hotel": 4500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    }
+  ]
+]
