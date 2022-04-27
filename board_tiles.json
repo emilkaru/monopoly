@@ -4,6 +4,7 @@
     {
       "image": "pictures/start_tile.png",
       "top colour": null,
+      "price": null,
       "properties": null
     },
     {
@@ -13,6 +14,7 @@
         70,
         10
       ],
+      "price": 600000,
       "properties": {
         "rent": {
           "property": 20000,
@@ -29,6 +31,7 @@
     {
       "image": "pictures/ühisfond.png",
       "top colour": null,
+      "price": null,
       "properties": null
     },
     {
@@ -38,6 +41,7 @@
         70,
         10
       ],
+      "price": 600000,
       "properties": {
         "rent": {
           "property": 40000,
@@ -50,6 +54,57 @@
         "flat price": 500000,
         "hotel price": 500000
       }
+    },
+    {
+      "image": "pictures/tulumaks.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tallinna_sadam.png",
+      "top colour": null,
+      "price": 2000000,
+      "properties": null
+    },
+    {
+      "image": "pictures/tehvandi_spordikeskus.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1000000,
+      "properties": {
+        "rent": {
+          "property": 60000,
+          "1 falt": 300000,
+          "2 falts": 900000,
+          "3 falts": 2700000,
+          "4 falts": 400000,
+          "hotel": 5500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/loos.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/TV3.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
     }
   ]
 ]
