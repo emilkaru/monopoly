@@ -16,11 +16,14 @@ class Main(object):
     def mk_board_tiles(self) -> list[Tile]:
         return [
             Tile(
-                (10 + x * 100, 10 + y * 200),
+                (10 + x * 110, 10 + y * 210),
                 self.display,
                 pygame.image.load(self.board_tile_info[y][x]["image"]),
-                self.board_tile_info[y][x]["top colour"]
-            ) for x in range(4) for y in range(1)
+                self.board_tile_info[y][x]["top colour"],
+                self.board_tile_info[y][x]["price"]
+                # x is the number of tiles in a row
+                # y is the number of rows
+            ) for x in range(7) for y in range(1)
         ]
 
     def draw_board_tiles(self) -> None:
