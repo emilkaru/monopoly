@@ -14,6 +14,253 @@
         70,
         10
       ],
+      "price": 6e+5,
+      "properties": {
+        "rent": {
+          "property": 2e+4,
+          "1 falt": 1e+5,
+          "2 falts": 3e+5,
+          "3 falts": 9e+5,
+          "4 falts": 1.6e+6,
+          "hotel": 2.5e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/teletorn.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "price": 6e+5,
+      "properties": {
+        "rent": {
+          "property": 4e+4,
+          "1 falt": 2e+5,
+          "2 falts": 6e+5,
+          "3 falts": 1.8e+6,
+          "4 falts": 3.2e+6,
+          "hotel": 4.5e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    },
+    {
+      "image": "pictures/tulumaks.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tallinna_sadam.png",
+      "top colour": null,
+      "price": 2e+6,
+      "properties": null
+    },
+    {
+      "image": "pictures/tehvandi_spordikeskus.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1e+6,
+      "properties": {
+        "rent": {
+          "property": 6e+4,
+          "1 falt": 3e+5,
+          "2 falts": 9e+5,
+          "3 falts": 2.7e+6,
+          "4 falts": 4e+6,
+          "hotel": 5.5e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    },
+    {
+      "image": "pictures/loos.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1e+6,
+      "properties": {
+        "rent": {
+          "property": 6e+4,
+          "1 falt": 3e+5,
+          "2 falts": 9e+5,
+          "3 falts": 2.7e+6,
+          "4 falts": 4e+6,
+          "hotel": 5.5e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    },
+    {
+      "image": "pictures/TV3.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1.2e+6,
+      "properties": {
+        "rent": {
+          "property": 8e+4,
+          "1 falt": 4e+5,
+          "2 falts": 1e+6,
+          "3 falts": 3e+6,
+          "4 falts": 4.5e+6,
+          "hotel": 6e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    }
+  ],
+  [
+    {
+      "image": "pictures/jail.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/coca-cola_plaza_superkino.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1.2e+6,
+      "properties": {
+        "rent": {
+          "property": 8e+4,
+          "1 falt": 4e+5,
+          "2 falts": 1e+6,
+          "3 falts": 3e+6,
+          "4 falts": 4.5e+6,
+          "hotel": 6e+6
+        },
+        "flat price": 5e+5,
+        "hotel price": 5e+5
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/teletorn.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "price": 600000,
+      "properties": {
+        "rent": {
+          "property": 40000,
+          "1 falt": 200000,
+          "2 falts": 600000,
+          "3 falts": 1800000,
+          "4 falts": 3200000,
+          "hotel": 4500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/tulumaks.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tallinna_sadam.png",
+      "top colour": null,
+      "price": 2000000,
+      "properties": null
+    },
+    {
+      "image": "pictures/tehvandi_spordikeskus.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1000000,
+      "properties": {
+        "rent": {
+          "property": 60000,
+          "1 falt": 300000,
+          "2 falts": 900000,
+          "3 falts": 2700000,
+          "4 falts": 400000,
+          "hotel": 5500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/loos.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/TV3.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    }
+  ],
+  [
+    {
+      "image": "pictures/start_tile.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/coca-cola_plaza_superkino.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
       "price": 600000,
       "properties": {
         "rent": {
@@ -89,19 +336,132 @@
       }
     },
     {
-      "image": "pictures/loos.png",
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/loos.png",
       "top colour": null,
       "price": null,
       "properties": null
     },
     {
-      "image": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
       "top colour": null,
       "price": null,
       "properties": null
     },
     {
-      "image": "pictures/TV3.png",
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/TV3.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    }
+  ],
+  [
+    {
+      "image": "pictures/start_tile.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/coca-cola_plaza_superkino.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "price": 600000,
+      "properties": {
+        "rent": {
+          "property": 20000,
+          "1 falt": 100000,
+          "2 falts": 300000,
+          "3 falts": 900000,
+          "4 falts": 1600000,
+          "hotel": 2500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/teletorn.png",
+      "top colour": [
+        150,
+        70,
+        10
+      ],
+      "price": 600000,
+      "properties": {
+        "rent": {
+          "property": 40000,
+          "1 falt": 200000,
+          "2 falts": 600000,
+          "3 falts": 1800000,
+          "4 falts": 3200000,
+          "hotel": 4500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/tulumaks.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/tallinna_sadam.png",
+      "top colour": null,
+      "price": 2000000,
+      "properties": null
+    },
+    {
+      "image": "pictures/tehvandi_spordikeskus.png",
+      "top colour": [
+        100,
+        100,
+        250
+      ],
+      "price": 1000000,
+      "properties": {
+        "rent": {
+          "property": 60000,
+          "1 falt": 300000,
+          "2 falts": 900000,
+          "3 falts": 2700000,
+          "4 falts": 400000,
+          "hotel": 5500000
+        },
+        "flat price": 500000,
+        "hotel price": 500000
+      }
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/loos.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "top colour": null,
+      "price": null,
+      "properties": null
+    },
+    {
+      "image": "pictures/ühisfond.png",
+      "image1": "pictures/TV3.png",
       "top colour": null,
       "price": null,
       "properties": null

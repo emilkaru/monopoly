@@ -30,6 +30,7 @@ class Die(object):
         self.surface.fill((0, 0, 0, 0))  # makes the surface transparent
 
         # make stuff appear on the surface
+        # TODO: make 6 pictures for the numbers on the dice
         pygame.draw.lines(self.surface, (0, 0, 0), True, [(3, 3), (53, 3), (53, 53), (3, 53)], 5)  # die outline
         self.surface.blit(rendered_txt, (30 - rendered_txt.get_width() / 2, 30 - rendered_txt.get_height() / 2))
 
