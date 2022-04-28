@@ -23,7 +23,7 @@ class Main(object):
                 self.board_tile_info[y][x]["price"]
                 # x is the number of tiles in a row
                 # y is the number of rows
-            ) for x in range(7) for y in range(1)
+            ) for x in range(10) for y in range(1)
         ]
 
     def draw_board_tiles(self) -> None:
