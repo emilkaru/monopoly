@@ -40,9 +40,15 @@ class Tile(object):
         # draws the price of the property
         if price is not None:
             font = pygame.font.SysFont('Arial', 20)
-            price_mil = str(round(price / 1_000_000, 1))
-            #                             the if else statements do some stuff to display the price of the tile/building
-            rendered_txt = font.render(f'{round(price / 1_000) if price_mil[0] == "0" else float(price_mil) if price_mil[-1] != "0" else round(price / 1_000_000)}{"M" if price > 999_999 else "k"}€', True, (0, 0, 0))
+            if str(round(price / 1_000_000, 1))[0] == "0":
+                price_number = round(price / 1_000)
+            elif str(round(price / 1_000_000, 1))[-1] != "0":
+                price_number = float(round(price / 1_000_000, 1))
+            else:
+                price_number = round(price / 1_000_000)
+
+            price_letter = "M" if price > 999_999 else "k"
+            rendered_txt = font.render(f'{price_number}{price_letter}€', True, (0, 0, 0))
             self.surface.blit(rendered_txt, (round(53 - rendered_txt.get_width() / 2), 170))
 
     def draw_board_tile(self) -> None:

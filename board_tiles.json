@@ -141,110 +141,76 @@
     {
       "image": "pictures/jail.png",
       "top colour": null,
-      "price": null,
-      "properties": null
+      "price": null
     },
     {
-      "image": "pictures/coca-cola_plaza_superkino.png",
+      "image": "pictures/eesti_rahvusraamatukogu.png",
       "top colour": [
-        100,
-        100,
-        250
+        200,
+        0,
+        200
       ],
-      "price": 1.2e+6,
-      "properties": {
-        "rent": {
-          "property": 8e+4,
-          "1 falt": 4e+5,
-          "2 falts": 1e+6,
-          "3 falts": 3e+6,
-          "4 falts": 4.5e+6,
-          "hotel": 6e+6
-        },
-        "flat price": 5e+5,
-        "hotel price": 5e+5
-      }
+      "price": 1.4e+6
     },
     {
-      "image": "pictures/ühisfond.png",
+      "image": "pictures/äripäev.png",
       "top colour": null,
-      "price": null,
-      "properties": null
+      "price": 1.5e+6
     },
     {
-      "image": "pictures/teletorn.png",
+      "image": "pictures/ale_coq_arena.png",
       "top colour": [
+        200,
+        0,
+        200
+      ],
+      "price": 1.4e+6
+    },
+    {
+      "image": "pictures/saku_suurhall.png",
+      "top colour": [
+        200,
+        0,
+        200
+      ],
+      "price": 1.6e+6
+    },
+    {
+      "image": "pictures/tallinna_bussi_jaam.png",
+      "top colour": null,
+      "price": 2e+6
+    },
+    {
+      "image": "pictures/eesti_kunstimuuseum.png",
+      "top colour": [
+        255,
         150,
-        70,
-        10
+        0
       ],
-      "price": 600000,
-      "properties": {
-        "rent": {
-          "property": 40000,
-          "1 falt": 200000,
-          "2 falts": 600000,
-          "3 falts": 1800000,
-          "4 falts": 3200000,
-          "hotel": 4500000
-        },
-        "flat price": 500000,
-        "hotel price": 500000
-      }
+      "price": 1.8e+6
     },
     {
-      "image": "pictures/tulumaks.png",
+      "image": "pictures/ühisfond.png",
       "top colour": null,
-      "price": null,
-      "properties": null
+      "price": null
     },
     {
-      "image": "pictures/tallinna_sadam.png",
-      "top colour": null,
-      "price": 2000000,
-      "properties": null
-    },
-    {
-      "image": "pictures/tehvandi_spordikeskus.png",
+      "image": "pictures/eesti_kunstimuuseum.png",
       "top colour": [
-        100,
-        100,
-        250
+        255,
+        150,
+        0
       ],
-      "price": 1000000,
-      "properties": {
-        "rent": {
-          "property": 60000,
-          "1 falt": 300000,
-          "2 falts": 900000,
-          "3 falts": 2700000,
-          "4 falts": 400000,
-          "hotel": 5500000
-        },
-        "flat price": 500000,
-        "hotel price": 500000
-      }
+      "price": 1.8e+6
     },
     {
-      "image": "pictures/ühisfond.png",
-      "image1": "pictures/loos.png",
-      "top colour": null,
-      "price": null,
-      "properties": null
-    },
-    {
-      "image": "pictures/ühisfond.png",
-      "image1": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
-      "top colour": null,
-      "price": null,
-      "properties": null
-    },
-    {
-      "image": "pictures/ühisfond.png",
-      "image1": "pictures/TV3.png",
-      "top colour": null,
-      "price": null,
-      "properties": null
+      "image": "pictures/eesti_kunstimuuseum.png",
+      "top colour": [
+        255,
+        150,
+        0
+      ],
+      "price": 1.8e+6
     }
   ],
   [
