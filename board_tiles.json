@@ -195,7 +195,7 @@
       "price": null
     },
     {
-      "image": "pictures/eesti_kunstimuuseum.png",
+      "image": "pictures/tartu_ülikool.png",
       "top colour": [
         255,
         150,
@@ -204,122 +204,99 @@
       "price": 1.8e+6
     },
     {
-      "image": "pictures/eesti_kunstimuuseum.png",
+      "image": "pictures/rahvusooper_estonia.png",
       "top colour": [
         255,
         150,
         0
       ],
-      "price": 1.8e+6
+      "price": 2e+6
     }
   ],
   [
     {
-      "image": "pictures/start_tile.png",
+      "image": "pictures/free_parking.png",
       "top colour": null,
       "price": null,
       "properties": null
     },
     {
-      "image": "pictures/coca-cola_plaza_superkino.png",
+      "image": "pictures/kadrioru_loss.png",
       "top colour": [
-        150,
-        70,
-        10
+        250,
+        0,
+        0
       ],
-      "price": 600000,
-      "properties": {
-        "rent": {
-          "property": 20000,
-          "1 falt": 100000,
-          "2 falts": 300000,
-          "3 falts": 900000,
-          "4 falts": 1600000,
-          "hotel": 2500000
-        },
-        "flat price": 500000,
-        "hotel price": 500000
-      }
+      "price": 2.2e+6,
+      "properties": null
     },
     {
-      "image": "pictures/ühisfond.png",
+      "image": "pictures/loos.png",
       "top colour": null,
       "price": null,
       "properties": null
     },
     {
-      "image": "pictures/teletorn.png",
+      "image": "pictures/kadrioru_park.png",
       "top colour": [
-        150,
-        70,
-        10
+        250,
+        0,
+        0
       ],
-      "price": 600000,
-      "properties": {
-        "rent": {
-          "property": 40000,
-          "1 falt": 200000,
-          "2 falts": 600000,
-          "3 falts": 1800000,
-          "4 falts": 3200000,
-          "hotel": 4500000
-        },
-        "flat price": 500000,
-        "hotel price": 500000
-      }
-    },
-    {
-      "image": "pictures/tulumaks.png",
-      "top colour": null,
-      "price": null,
+      "price": 2.2e+6,
       "properties": null
     },
     {
-      "image": "pictures/tallinna_sadam.png",
-      "top colour": null,
-      "price": 2000000,
-      "properties": null
-    },
-    {
-      "image": "pictures/tehvandi_spordikeskus.png",
+      "image": "pictures/pirita_klooster.png",
       "top colour": [
-        100,
-        100,
-        250
+        250,
+        0,
+        0
       ],
-      "price": 1000000,
-      "properties": {
-        "rent": {
-          "property": 60000,
-          "1 falt": 300000,
-          "2 falts": 900000,
-          "3 falts": 2700000,
-          "4 falts": 400000,
-          "hotel": 5500000
-        },
-        "flat price": 500000,
-        "hotel price": 500000
-      }
-    },
-    {
-      "image": "pictures/ühisfond.png",
-      "image1": "pictures/loos.png",
-      "top colour": null,
-      "price": null,
+      "price": 2.4e+6,
       "properties": null
     },
     {
-      "image": "pictures/ühisfond.png",
-      "image1": "pictures/tervise_paradiis_spa_ja_veekeskus.png",
+      "image": "pictures/tallinna_lennujaam.png",
       "top colour": null,
-      "price": null,
+      "price": 2e+6,
       "properties": null
     },
     {
-      "image": "pictures/ühisfond.png",
+      "image": "pictures/lauluväljak.png",
+      "top colour": [
+        250,
+        250,
+        0
+      ],
+      "price": 2.6e+6,
+      "properties": null
+    },
+    {
+      "image": "pictures/hotell.png",
+      "top colour": [
+        250,
+        250,
+        0
+      ],
+      "price": 2.6e+6,
+      "properties": null
+    },
+    {
+      "image": "pictures/kaubamaja.png",
+      "top colour": null,
+      "price": 1.5e+6,
+      "properties": null
+    },
+    {
+      "image": "pictures/viru_väravad.png",
       "image1": "pictures/TV3.png",
-      "top colour": null,
-      "price": null,
+      "top colour": [
+        250,
+        250,
+        0
+      ],
+      "price": 2.8e+6,
       "properties": null
     }
   ],

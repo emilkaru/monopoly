@@ -1,10 +1,10 @@
 import pygame
-from typing import Union
+from typing import Union, Tuple
 import random
 
 
 class Die(object):
-    def __init__(self, pos: tuple[int, int], display: Union[pygame.Surface, pygame.SurfaceType]) -> None:
+    def __init__(self, pos: Tuple[int, int], display: Union[pygame.Surface, pygame.SurfaceType]) -> None:
         """
         :param pos: the position of the die (from the top, left corner)
         :param display: the Surface to draw the die on
@@ -17,8 +17,10 @@ class Die(object):
     def draw_die(self) -> None:
         self.display.blit(self.surface, self.position)
 
-    def roll_die(self) -> None:
-        self._mk_die(random.randint(1, 6))
+    def roll_die(self) -> int:
+        number = random.randint(1, 6)
+        self._mk_die(number)
+        return number
 
     def _mk_die(self, number):
         # the number surface

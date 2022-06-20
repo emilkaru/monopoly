@@ -1,15 +1,15 @@
 import pygame
-from typing import Union
+from typing import Union, Tuple
 
 
 class Tile(object):
     def __init__(self,
-                 pos: tuple[int, int],
+                 pos: Tuple[int, int],
                  display: Union[pygame.Surface, pygame.SurfaceType],
                  image: pygame.Surface,
-                 top_box_colour: list[int, int, int] = None,
+                 top_box_colour: Tuple[int, int, int] = None,
                  price: int = None,
-                 line_colour: tuple[int, int, int] = (150, 150, 150),
+                 line_colour: Tuple[int, int, int] = (150, 150, 150),
                  ) -> None:
         """
         :param pos: the position of the tile (from the top, left corner)
@@ -51,6 +51,9 @@ class Tile(object):
             rendered_txt = font.render(f'{price_number}{price_letter}€', True, (0, 0, 0))
             self.surface.blit(rendered_txt, (round(53 - rendered_txt.get_width() / 2), 170))
 
-    def draw_board_tile(self) -> None:
+    def draw(self) -> None:
         # called every frame to draw the surface made in __init__() on the screen
         self.display.blit(self.surface, self.position)
+
+    def get_position_on_board(self) -> Tuple[int, int]:
+        return self.position
